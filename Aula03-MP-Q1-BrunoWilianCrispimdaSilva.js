@@ -12,6 +12,8 @@
  *
  */
 
+/* Implemente um programa capaz de computar o valor de y na equação: y  = 2x³ -5x² + 3x - 2 */
+
 
 var x = 10;
 
