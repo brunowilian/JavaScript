@@ -10,6 +10,10 @@
  * Aula: Aula 03 - Variáveis, Tipos e Operadores - Mini-prova
  * Questão: 3
  *
+ 
+  O programa abaixo deveria ser capaz de computar a média aritmética entre quatro números, mas possui diversos erros, corrija todos os erros do mesmo e para cada erro 
+  encontrado faça um comentário explicando qual o erro e qual foi a solução encontrada:
+
  */
 
 
