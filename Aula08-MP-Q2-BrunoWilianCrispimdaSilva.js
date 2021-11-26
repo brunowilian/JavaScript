@@ -23,4 +23,4 @@ function comparar (vetor1,vetor2){
 	return true
 }
 var resulta = comparar ([1,2,3,4,9,8,5,9],[1,2,3,4,9,8,5,9])
-console.log(resulta)
+console.log('Resultado:', resulta)

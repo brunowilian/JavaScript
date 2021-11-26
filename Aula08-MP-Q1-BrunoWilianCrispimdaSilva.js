@@ -20,7 +20,6 @@ var media = 0
  for (i = 0; i<vet.length; i++){
    if (vet[i] % 2 ==1){
     impares++
-    var media = impares / impares
      total += vet[i]
     media = total / impares
    console.log(vet[i])
@@ -28,8 +27,8 @@ var media = 0
 }
 console.log ("Tem ",impares ,"números impares")
 console.log("A soma desses números é:", total)
-console.log("A media desses números é: ", media)
+console.log("A media desses números é: ", media.toFixed(2))
 
 }
- media_impares ([1,2,5,2,3,0])
+ media_impares ([1,2,5,5,3,9])
 

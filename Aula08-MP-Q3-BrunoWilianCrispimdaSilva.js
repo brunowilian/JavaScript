@@ -25,7 +25,7 @@ function buscar(array, n) {
 
 
 var vetor = [4,5,6,7,1,2,3,4]
-console.log(‘resultado:’, buscar(vetor, 0)) o erro é ter aspas simples no resultado, para resolver é só colocar uma aspas duplas
+console.log(‘resultado:’, buscar(vetor, 0)) o erro é ter apostrofo no resultado, para resolver é só colocar uma aspas duplas ou aspas simples
  */
 
 function buscar(array, n) {
@@ -38,5 +38,5 @@ function buscar(array, n) {
     }
 }
 var vetor = [4,5,6,7,1,2,3,4]
-console.log( buscar(vetor, 4))
+console.log( 'Resultado:', buscar(vetor, 0))
 
